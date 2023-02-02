@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.header {
+    background-color: white;
+}
+
+.header .bar {
+    height: 10px;
+    width: 100%;
+    background-color: darkviolet;
+}
+
+.items {
+    margin-top: 100px;
+}
+
+.items-row {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.items .items-row .item {
+    margin: 0 10px 0 10px;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+.items .items-row .item .body {
+    padding: 10px;
+}
+
+.items .items-row .item .item-position {
+    width: 40px;
+    height: 30px;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    font-size: 1.25rem;
+}
+
+.items .items-row .item img {
+    width: 300px;
+}
+
+.items .items-row .item-taked {
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+.items .items-row .item-taked img{
+    width: 15%;
+}
+/* Descomentar esta parte para no mostar las scroll bars */
+::-webkit-scrollbar {
+    display: none;
+}
