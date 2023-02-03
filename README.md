@@ -1,7 +1,10 @@
 # Vending-Machine-Front
 
-![image](https://user-images.githubusercontent.com/74383773/216252710-41dc8d4d-7763-46ad-84c2-9238962f415b.png)
-![image](https://user-images.githubusercontent.com/74383773/216252852-f62b6c8e-ae04-4673-98a9-b86fc2f4a2c1.png)
-![image](https://user-images.githubusercontent.com/74383773/216252802-ad2b561e-eda4-4a44-9c2d-7fb27136e643.png)
-![image](https://user-images.githubusercontent.com/74383773/216252889-e5cbef31-eb7a-4029-aede-8f39fa0c7ed6.png)
-![image](https://user-images.githubusercontent.com/74383773/216252938-ccc2352c-208d-4720-84d8-fa6ad4fb5f6c.png)
+![image](https://user-images.githubusercontent.com/74383773/216560478-03aaa2d2-98f4-47dc-b97f-6a2a4690518d.png)
+![image](https://user-images.githubusercontent.com/74383773/216560678-534afcc6-955b-453b-a68f-6f4ba28ad294.png)
+![image](https://user-images.githubusercontent.com/74383773/216560791-b3b4a86b-9680-40d9-97f7-6e2a3a66732e.png)
+![image](https://user-images.githubusercontent.com/74383773/216560833-dc550ec7-3b67-4e96-a8e3-c77c33d43bac.png)
+![image](https://user-images.githubusercontent.com/74383773/216560878-80e2bdee-18bb-44e5-9e57-e3ba10b7eb06.png)
+![image](https://user-images.githubusercontent.com/74383773/216560921-2a539efe-e032-44e1-b294-cfbbaa496568.png)
+![image](https://user-images.githubusercontent.com/74383773/216560966-79afa766-b69f-4561-bd84-eb373f0ea70f.png)
+
