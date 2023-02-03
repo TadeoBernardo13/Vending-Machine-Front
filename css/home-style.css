@@ -5,6 +5,7 @@
 
 body {
     overflow-x: hidden;
+    background-color: rgb(240, 234, 234);
 }
 
 a {
@@ -13,26 +14,34 @@ a {
 }
 
 .header {
-    background-color: white;
+    background: rgb(255,215,177);
+    background: -moz-radial-gradient(circle, rgba(255,215,177,1) 0%, rgba(201,210,72,1) 75%, rgba(117,213,39,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(255,215,177,1) 0%, rgba(201,210,72,1) 75%, rgba(117,213,39,1) 100%);
+    background: radial-gradient(circle, rgba(255,215,177,1) 0%, rgba(201,210,72,1) 75%, rgba(117,213,39,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffd7b1",endColorstr="#75d527",GradientType=1);
 }
 
-.header .bar {
-    height: 10px;
-    width: 100%;
-    background-color: darkviolet;
+.header .text {
+    height: 200px;
 }
 
 .items {
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 .items-row {
     margin-top: 20px;
     padding: 10px;
+    background-color: rgb(255, 255, 255);
 }
 
 .items .items-row .item {
     margin: 0 10px 0 10px;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+.items .items-row {
     border: 1px solid rgba(0,0,0,.125);
     border-radius: 0.25rem;
 }
@@ -56,6 +65,7 @@ a {
 .items-Selected .item-taked {
     border: 1px solid rgba(0,0,0,.125);
     border-radius: 0.25rem;
+    margin-bottom: 15px;
 }
 
 .items-Selected .item-taked img{

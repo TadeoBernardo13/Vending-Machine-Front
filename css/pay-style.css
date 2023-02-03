@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    height: 100vh;
+}
+.container {
+    height: 100%;
+}
+
+.pay-method img {
+    width: 50%;
+}
+
+.pay-method p {
+    margin-top: 30px;
+}
+
+.pay-method .btn-payCard, .btn-cash {
+    width: 600px;
+    margin: 0 10px 0 10px;
+}
