@@ -53,12 +53,12 @@ a {
     width: 300px;
 }
 
-.items .items-row .item-taked {
+.items-Selected .item-taked {
     border: 1px solid rgba(0,0,0,.125);
     border-radius: 0.25rem;
 }
 
-.items .items-row .item-taked img{
+.items-Selected .item-taked img{
     width: 15%;
 }
 /* Descomentar esta parte para no mostar las scroll bars */
